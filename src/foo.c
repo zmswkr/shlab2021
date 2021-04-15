@@ -3,9 +3,13 @@
 
 int foo(int flag)
 {
-flag=0;
+if(flag)
+{
 printf("hello \n");
+}
+else
+{
 printf("good bye \n");
-
+}
 return 0;
 }
