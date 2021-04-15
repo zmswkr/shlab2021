@@ -3,7 +3,7 @@
 
 int goo()
 {
-printf("b");
+printf("hello goo world \n");
 
 return 1;
 }
