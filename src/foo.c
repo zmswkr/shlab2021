@@ -1,7 +1,11 @@
 #include<stdio.h>
 #include "funcs.h"
 
-void foo()
+int foo()
 {
-printf("hello a\n");
+int flag=0;
+printf("hello \n");
+printf("good bye \n");
+
+return 0;
 }
