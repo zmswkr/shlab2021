@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include "funcs.h"
 
-int foo()
+int foo(int flag)
 {
-int flag=0;
+flag=0;
 printf("hello \n");
 printf("good bye \n");
 
